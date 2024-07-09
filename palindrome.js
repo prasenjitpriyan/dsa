@@ -10,6 +10,5 @@ const isPalindrome = (x) => {
 }
 
 const response = isPalindrome(121);
-console.log(response);
 
 // 121 => "121" => ["1","2","1"] => ["1", "2","1"] => "121"
